@@ -1,0 +1,9 @@
+[alias]
+	l = log --date-order --oneline --decorate --graph
+[user]
+	email = thomas.d.peters@gmail.com
+	name = Tom Peters
+[push]
+	default = current
+[core]
+	editor = nano
